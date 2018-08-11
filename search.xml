@@ -4,13 +4,15 @@
     
     <entry>
       <title>测试一：我的第一个博客</title>
-      <link href="/2018/08/08/abc/"/>
-      <url>/2018/08/08/abc/</url>
-      <content type="html"><![CDATA[<p>这是<strong>新的开始</strong>，我用hexo创建了第一篇文章。</p><p>通过下面的命令，就可以创建新文章</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">F:\Important File\博客搭建\myblog\myHexoBlog&gt;hexo new 我的第一个博客</span><br><span class="line">[info] File created at D:\workspace\javascript\nodejs-hexo\source\_posts\我的第一个博客.md</span><br></pre></td></tr></table></figure><p>感觉非常好</p>]]></content>
+      <link href="/2018/08/10/abc/"/>
+      <url>/2018/08/10/abc/</url>
+      <content type="html"><![CDATA[<p>一篇关于<strong>音乐</strong>的文章。</p><pre><code>#**A-lin**</code></pre><p>##（一）她的演艺生涯<br>从小就极赋表演欲的黄丽玲，幼儿园时就会拉着表妹对着家乡的海岸唱<br>麦当娜的《Like A Virgin》，小学时黄丽玲加入了教会合唱团，爸爸<br>曾经用吉他教过黄丽玲基础的乐理，黄丽玲也曾自己创作了一首<br>《I Love You Mama》送给妈妈展现自己的音乐天份，中学时期黄丽玲<br>成天期待站上表演舞台成为闪亮的明星，专科时期黄丽玲赢得的学校<br>上上下下很多的歌唱冠军，同时她也参加过很多大大小小的歌唱比赛，<br>1998年黄丽玲曾有缘和蔡依林参加过同一届MTV新生卡位战歌唱比赛，<br>1999年黄丽玲开始陆续地在台南的PUB做驻唱歌手，这也为她日后的演<br>出累积了丰富的经验</p>]]></content>
       
       <categories>
           
           <category> 日志 </category>
+          
+          <category> 第一天 </category>
           
       </categories>
       
