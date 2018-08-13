@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-11T09:17:18.871Z</updated>
+  <updated>2018-08-11T09:47:06.427Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,17 +21,16 @@
     <link href="http://yoursite.com/2018/08/10/abc/"/>
     <id>http://yoursite.com/2018/08/10/abc/</id>
     <published>2018-08-10T01:27:27.000Z</published>
-    <updated>2018-08-11T09:17:18.871Z</updated>
+    <updated>2018-08-11T09:47:06.427Z</updated>
     
-    <content type="html"><![CDATA[<p>一篇关于<strong>音乐</strong>的文章。</p><pre><code>#**A-lin**</code></pre><p>##（一）她的演艺生涯<br>从小就极赋表演欲的黄丽玲，幼儿园时就会拉着表妹对着家乡的海岸唱<br>麦当娜的《Like A Virgin》，小学时黄丽玲加入了教会合唱团，爸爸<br>曾经用吉他教过黄丽玲基础的乐理，黄丽玲也曾自己创作了一首<br>《I Love You Mama》送给妈妈展现自己的音乐天份，中学时期黄丽玲<br>成天期待站上表演舞台成为闪亮的明星，专科时期黄丽玲赢得的学校<br>上上下下很多的歌唱冠军，同时她也参加过很多大大小小的歌唱比赛，<br>1998年黄丽玲曾有缘和蔡依林参加过同一届MTV新生卡位战歌唱比赛，<br>1999年黄丽玲开始陆续地在台南的PUB做驻唱歌手，这也为她日后的演<br>出累积了丰富的经验</p>]]></content>
+    <content type="html"><![CDATA[<p>一篇关于<strong>音乐</strong>的文章。</p><h1 id="A-lin"><a href="#A-lin" class="headerlink" title="A-lin"></a>A-lin</h1><p><img src="(https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&amp;fm=27&amp;gp=0.jpg,&quot;A-lin&quot;" alt="A-lin"></p><h2 id="（一）她的演艺生涯"><a href="#（一）她的演艺生涯" class="headerlink" title="（一）她的演艺生涯"></a>（一）她的演艺生涯</h2><p>  从小就极赋表演欲的黄丽玲，幼儿园时就会拉着表妹对着家乡的海岸唱麦当娜的《Like A Virgin》，小学时黄丽玲加入了教会合唱团，爸爸曾经用吉他教过黄丽玲基础的乐理，黄丽玲也曾自己创作了一首《I Love You Mama》送给妈妈展现自己的音乐天份，中学时期黄丽玲成天期待站上表演舞台成为闪亮的明星，专科时期黄丽玲赢得的学校上上下下很多的歌唱冠军，同时她也参加过很多大大小小的歌唱比赛，1998年黄丽玲曾有缘和蔡依林参加过同一届MTV新生卡位战歌唱比赛，1999年黄丽玲开始陆续地在台南的PUB做驻唱歌手，这也为她日后的演出累积了丰富的经验</p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;一篇关于&lt;strong&gt;音乐&lt;/strong&gt;的文章。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;#**A-lin**
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;##（一）她的演艺生涯&lt;br&gt;从小就极赋表演欲的黄丽玲，幼儿园时就会拉着表妹对着家乡的海岸唱&lt;br&gt;麦当娜的《Like A Virgi
+&lt;h1 id=&quot;A-lin&quot;&gt;&lt;a href=&quot;#A-lin&quot; class=&quot;headerlink&quot; title=&quot;A-lin&quot;&gt;&lt;/a&gt;A-lin&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;(https://ss0.
       
     
     </summary>
